@@ -1,5 +1,9 @@
 # basic-python3
-A collection of beginner python3 exercises
+A collection of beginner python3 exercises.  
+The exercises are collected from various resources around the web.  
+If you are serious about learning python 3 then you probably will find this collection very helpful.
+
+I appreciate any suggestion to improve this repository  .  :smiley:
 
 # How to do the exercises
 

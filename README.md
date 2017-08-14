@@ -14,6 +14,7 @@ You need to make sure that you have python 3 installed on your computer.
 To check if you already have python 3 in your computer, open a terminal (`win + r` then type `cmd`).  
 Now type the following command: `python --version`.  
 You should see something like this.  
+
 ![Python version 6][py-version]  
 
 I highly recommend that you install the anaconda distribution from this [site][download-anaconda-win]  
@@ -33,13 +34,13 @@ I highly recommend that you install the anaconda distribution from [here][downlo
 In order to complete the exercises you need to pass all the tests successfully.
 
 ## 2.1 open the exercise in your favorite code editor (Sublime Text, Atome, vim)
-Fill in the function according to the specification on top of it's definition.  
+Implement each `function` according to the specification on top of it's definition.  
 For example here I implement the `function donuts`:  
 ![Example of code][py-example]
 
 ## 2.2 Running the test
-To check that the code you write is correct and behave as expected, you need to pass all the tests (written at the bottom of each file).  
-For example here I run the test for the code I wrote for `function donuts`:  
+To check that the code you write is correct and behave as expected, you need to pass all the tests (written at the bottom of each file). For example here I run the test for the code I wrote for `function donuts`:  
+
 ![Exemple of test][py-test]
 
 

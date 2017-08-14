@@ -10,10 +10,9 @@ You need to make sure that you have python 3 installed on your computer.
 To check if you already have python 3 in your computer, open a terminal (`win + r` then type `cmd`).  
 Now type the following command: `python --version`.  
 You should see something like this.  
-![Python version 6][py-version]
+![Python version 6][py-version]  
 
-
-I highly recommend that you install the anaconda distribution from [here][download-anacoda-win]
+I highly recommend that you install the anaconda distribution from this [site][download-anaconda-win]  
 
 ## 1.2 Linux users  
 If you are using ubuntu chances are you have already python 3 installed.  

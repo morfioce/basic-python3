@@ -13,7 +13,7 @@ You should see something like this.
 ![Python version 6][py-version]
 
 
-I highly recommend that you install the anaconda distribution from [here][download-anacoda-win]  
+I highly recommend that you install the anaconda distribution from this [site][download-anaconda-win]  
 
 ## 1.2 Linux users  
 If you are using ubuntu chances are you have already python 3 installed.  

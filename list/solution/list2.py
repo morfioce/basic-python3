@@ -2,7 +2,7 @@
 # all duplicate have been reduced to a single element,
 # so [1, 2, 2, 3] returns [1, 2, 3]. You may create a new list or
 # modify the passed in list.
-def remove_adjacent(nums):
+def remove_duplicate(nums):
   result = []
   for i in nums:
     if i not in result:
@@ -46,10 +46,10 @@ def test(got, expected):
 
 # Calls the above functions with interesting inputs.
 def main():
-  print('remove_adjacent')
-  test(remove_adjacent([1, 2, 2, 3]), [1, 2, 3])
-  test(remove_adjacent([2, 2, 3, 3, 3]), [2, 3])
-  test(remove_adjacent([]), [])
+  print('remove_duplicate')
+  test(remove_duplicate([1, 2, 2, 3]), [1, 2, 3])
+  test(remove_duplicate([2, 2, 3, 3, 3]), [2, 3])
+  test(remove_duplicate([]), [])
 
   print()
   print('linear_merge')

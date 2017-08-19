@@ -49,8 +49,8 @@ You see that my implementation of the `function donuts` failed at the first 2 te
 
 ## Good luck :thumbsup:
 
-[py-version]: ./img/py-version.jpg "Python version 6"  
-[py-example]: ./img/py-example.jpg "Python example"  
-[py-test]: ./img/py-test.jpg "Python test"
+[py-version]: ./resources/img/py-version.jpg "Python version 6"  
+[py-example]: ./resources/img/py-example.jpg "Python example"  
+[py-test]: ./resources/img/py-test.jpg "Python test"
 [download-anaconda-win]: https://www.continuum.io/downloads  
 [download-anaconda-linux]: https://docs.continuum.io/anaconda/install/linux  

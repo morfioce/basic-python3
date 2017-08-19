@@ -1,5 +1,4 @@
-"""Mimic pyquick exercise -- optional extra exercise.
-Google's Python Class
+"""Mimic pyquick exercise.
 
 Read in the file specified on the command line.
 Do a simple split() on whitespace to obtain all the words in the file.

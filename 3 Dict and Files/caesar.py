@@ -55,9 +55,9 @@ def test(message, cipher, expected):
 
 def main():
 	test_data = [(3, "hi my name is caesar", 'klcpacqdphclvcfdhvdu'),
-			  	 (3, 'this is a secret message', 'wklvclvcdcvhfuhwcphvvdjh'),
-			  	 (7, 'hi my name is caesar', 'opgteguhtlgpzgjhlzhy'),
-			  	 (7, 'this is a secret message', ' opzgpzghgzljyl gtlzzhnl')]
+		     (3, 'this is a secret message', 'wklvclvcdcvhfuhwcphvvdjh'),
+	  	     (7, 'hi my name is caesar', 'opgteguhtlgpzgjhlzhy'),
+		     (7, 'this is a secret message', ' opzgpzghgzljyl gtlzzhnl')]
 	for enk_key, message, expected in test_data:
 		print('Test cases with enk_key = ',enk_key)
 		test(message, caesar(message, enk_key), expected)
